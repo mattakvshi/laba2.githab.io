@@ -127,13 +127,26 @@ a:hover{
 
 
 table{
+    margin-left: 460px;
+    width: 40%;
+    font-family: 'Space Mono', monospace;;
+}
+table,th,td{
+    border: 1px solid #244059;
+    border-color: white;
     text-align: center;
-    display: inline-block;
+    height:50px;
+}
+tr:nth-child(odd)
+{
+    background-color: #244059;
+    padding: 4px;
 }
 
-td,th{
-    text-align: center;
-    background-color: #244059;
+tr:nth-child(even)
+{
+    background-color: #a35284;
+    padding: 4px;
 }
 
 
