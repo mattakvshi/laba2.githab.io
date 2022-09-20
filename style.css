@@ -74,7 +74,7 @@ header{
 }
 
 .text_color{
-    font-family: 'Digital-7 Mono', sans-serif;
+    font-family: 'Press Start 2P', cursive;
     color:#fff!important;
     text-shadow: 5px 0 5px #244059,
     0 5px 5px #244059,
@@ -127,7 +127,6 @@ a:hover{
 
 
 table{
-    margin-left: 460px;
     width: 40%;
     font-family: 'Space Mono', monospace;;
 }
